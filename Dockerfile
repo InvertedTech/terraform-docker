@@ -11,6 +11,4 @@ RUN set -eux; \
 	apt autoremove; \
 	apt clean all;
 
-
 ENTRYPOINT ["terraform"]
-
