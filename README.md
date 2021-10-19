@@ -4,7 +4,7 @@ Clone it:
 
 ```bash
 $ git clone git@github.com:OpenNetworkFoundation/terraform-docker.git
-
+$ cd terraform-docker
 ```
 
 Build it:
