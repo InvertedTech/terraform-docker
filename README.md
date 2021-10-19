@@ -18,6 +18,6 @@ Successfully built <HASH>
 Run it:
 
 ```bash
-doocker run <HASH> -version
+doocker run --rm <HASH> -version
 ```
 
