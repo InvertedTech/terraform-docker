@@ -12,5 +12,5 @@ RUN set -eux; \
 	apt clean all;
 
 
-ENTRYPOINT terraform
+ENTRYPOINT ["terraform"]
 
